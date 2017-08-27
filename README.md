@@ -1,31 +1,22 @@
-# React Starter Kit
+# Weatherly - Laura Caroselli & Dan Alveraz
 
-To install the dependencies:
+![Weatherly Screenshot](/assets/Screenshot.png?raw=true "Weatherly Screenshot")
 
-```
-npm install
-```
+## Introduction
+This application can be used to search for different cities or their zip codes and display their current temperature, including highs and lows, as well as an hourly, 7-day, and 10-day forecast. The search autofills cities and zip codes as you type. 
 
-To fire up a development server:
-
-```
-npm start
-```
-
-Once the server is running, you can visit:
-
-* `http://localhost:8080/webpack-dev-server/` to run your application.
-* `http://localhost:8080/webpack-dev-server/test.html` to run your test suite in the browser.
-
-To build the static files:
-
-```js
-npm run build
-```
+## Built With
+* HTML
+* CSS
+* JavaScript
+* React
+* Jest/Enzyme for testing
 
 
-To run tests in Node:
+## Set Up
+* Fork this project
+* Run `npm install` from the root directory
+* Run `npm start`
 
-```js
-npm test
-```
+## Project Goals
+* Familiarity with ReactJS, asynchronous javascript, and managing state 
